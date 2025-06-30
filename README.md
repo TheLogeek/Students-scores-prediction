@@ -1,6 +1,6 @@
 # Students-scores-prediction
 
-**Simple regression model that makes use of academic activities parameters to predict a subject score**
+**Simple regression model that makes use of academic activities parameters to predict a subject score.**
 
 
 **TRAINING DATASET**
