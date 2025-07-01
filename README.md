@@ -15,6 +15,8 @@ XG Boost Regressor
 
 **REQUIREMENTS**
 
+python
+
 Jupyter notebook
 
 pandas
